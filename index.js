@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt Ricardo's Community","Luistert Naar 24/7 Uptime","Hosted By Ricardodebeast1"];
+const statusMessages = ["Luistert Naar 24/7 Uptime","Hosted By Ricardodebeast1"];
 
 
 let currentIndex = 0;
