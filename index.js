@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to /Help","Hosted By Medium Bots"];
+const statusMessages = ["Bekijkt Ricardo's Community/Leaks","Luistert Naar 24/7 Uptime","Hosted By Ricardodebeast1"];
 
 
 let currentIndex = 0;
